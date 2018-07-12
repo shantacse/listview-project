@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myListView</string>
+
+    <string-array name="female">
+        <item>shanta</item>
+        <item>asrafa</item>
+        <item>nasrin</item>
+        <item>salsabil</item>
+        <item>jamia</item>
+        <item>sufia</item>
+        <item>asma</item>
+
+
+    </string-array>
+</resources>
